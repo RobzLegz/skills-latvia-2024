@@ -1,1 +1,11 @@
-{"/_app":"pages/_app.js","/_document":"pages/_document.js","/_error":"pages/_error.js","/api/playlist":"pages/api/playlist.js","/album/[id]":"pages/album/[id].html","/api/song":"pages/api/song.js","/api/playlist/[id]":"pages/api/playlist/[id].js","/api/song/write":"pages/api/song/write.js","/api/song/add-to-playlist":"pages/api/song/add-to-playlist.js","/api/user/check-for-login":"pages/api/user/check-for-login.js","/api/user/login":"pages/api/user/login.js","/api/user/logout":"pages/api/user/logout.js","/api/user/register":"pages/api/user/register.js","/auth/login":"pages/auth/login.html","/auth/register":"pages/auth/register.html","/":"pages/index.html","/new-album":"pages/new-album.html","/playlist/[id]":"pages/playlist/[id].html","/playlist":"pages/playlist.html","/404":"pages/404.html"}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/user/check-for-login": "pages/api/user/check-for-login.js",
+  "/api/song": "pages/api/song.js",
+  "/album/[id]": "pages/album/[id].js",
+  "/api/user/login": "pages/api/user/login.js",
+  "/api/playlist/[id]": "pages/api/playlist/[id].js"
+}
