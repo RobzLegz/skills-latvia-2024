@@ -1,0 +1,4 @@
+192.168.12.251
+competitor9
+4TI2my!cCnx1dr%z
+localhost:3306
